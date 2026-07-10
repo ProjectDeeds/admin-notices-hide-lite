@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: Admin Notices Hide Lite
- * Description: Hides WordPress admin notices until toggled on. This is a lightwieght version for users who want to hide notices without the need for a settings page. This version removes all translation files, CSS files, JS files and all assets.
+ * Description: Hides WordPress admin notices until toggled on. This is a lightwieght version for users who want to hide notices.
  * Version: 1.0
  * Author: Ben Dishler
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Tested up to: 7.0
+ * Tested up to: 7.1
  * Requires PHP: 7.0
  * Stable tag: 1.0
  * Tags: admin notices, hide notices
