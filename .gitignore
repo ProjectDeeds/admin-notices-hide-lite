@@ -1,0 +1,14 @@
+# Local configuration and development files.
+DESIGN.md
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+node_modules/
+vendor/
+artifacts/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

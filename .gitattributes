@@ -1,0 +1,11 @@
+# Normalize text files in Git.
+* text=auto
+*.php text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Omit repository metadata and development notes from release exports.
+.gitattributes export-ignore
+.gitignore export-ignore
+DESIGN.md export-ignore
