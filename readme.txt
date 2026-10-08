@@ -6,7 +6,7 @@ Requires at least: 6.0
 Tested up to: 7.1
 Stable tag: 1.0.2
 Requires PHP: 7.0
-License: GPL 2.0 or later
+License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Lightweight plugin to hide admin notices, with a settings page and temporary toolbar toggle.
