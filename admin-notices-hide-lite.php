@@ -4,6 +4,8 @@
  * Description: Hides admin notices with a settings page and a temporary toolbar toggle, while preserving notices on WooCommerce screens.
  * Version: 1.0.2
  * Author: Ben Dishler
+ * Author URI: https://bendishler.com
+ * GitHub Plugin URI: https://github.com/ProjectDeeds/admin-notices-hide-lite
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 6.0
